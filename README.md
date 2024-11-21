@@ -10,7 +10,6 @@ Pembagian Kerja
 Al Dhihya Gaza Halim Putra (5025221288) :
 - Mengimplementasikan modul RSA (rsa.py)
 - Merancang mekanisme pertukaran kunci publik dengan Public Key Authority (pka.py)
-- Mengimplementasikan algoritma DES (DES.py)
 - Mengembangkan server.py untuk sisi server
 
 Faiq Lidan Baihaqi (5025221294) :

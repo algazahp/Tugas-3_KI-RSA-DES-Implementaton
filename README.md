@@ -4,6 +4,7 @@ Anggota :
 
 Al Dhihya Gaza Halim Putra - 5025221288
 Faiq Lidan Baihaqi - 5025221294
+
 Pembagian Kerja
 
 Al Dhihya Gaza Halim Putra (5025221288) :
